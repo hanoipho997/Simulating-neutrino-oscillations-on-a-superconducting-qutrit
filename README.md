@@ -9,6 +9,7 @@ The measurement protocol optimization is shown in Readout_measurement_optimizati
 - Neutrino oscillations in vacuum (Figure 3)
 - Neutrino oscillation in matter (Figure 4)
 - Neutrino oscillation with CP violation (Figure 5)
-## Data 
+## Data: in Simulating_neutrino_oscillation_superconducting_qutrit_data folder
 Corresponding date files to section 1 
+
 - Data for coherent and incoherent errors is (by repetition experiement) is fig2e_repeat_xp12_addmod.txt
