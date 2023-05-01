@@ -1,6 +1,5 @@
-## Code run on IBM quantum computers: 
  
-# Neutrino oscillation simulation notebooks
+## Neutrino oscillation simulation notebooks
 Notebooks are in Simulating_neutrino_oscillation_superconducting_qutrit_data folder.
 - Assessing high energy level: (Fig 2a, Fig 2d)
 Anharmonicity_and_Rabi_12.ipynb yields the anharmonicty and pi pulse at subspace 12
