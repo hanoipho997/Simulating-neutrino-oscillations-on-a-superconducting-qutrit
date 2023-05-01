@@ -1,4 +1,7 @@
- 
+# Simulating neutrino oscillations on a superconducting qutrit
+Notebooks and data of the manuscript titled "Simulating neutrino oscillations on a superconducting qutrit"
+cite as: https://doi.org/10.48550/arXiv.2212.14170
+
 ## Neutrino oscillation simulation notebooks
 Notebooks are in Simulating_neutrino_oscillation_superconducting_qutrit_data folder.
 - Assessing high energy level: (Fig 2a, Fig 2d)
