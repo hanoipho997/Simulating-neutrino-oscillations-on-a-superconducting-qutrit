@@ -9,7 +9,6 @@ Notebooks are in Simulating_neutrino_oscillation_superconducting_qutrit_data fol
 [Anharmonicity_and_Rabi_12.ipynb]() yields the anharmonicty and pi pulse at subspace 12.
 Also, the default IBM default qutrit readout is shown. 
 - Measurement pulse optimization: (Fig 2b)
-
 The measurement protocol optimization is shown in [Readout_measurement_optimization_for_qutrit.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Simulating_neutrino_qutrit_notebooks/Readout_measurement_optimization_for_qutrit.ipynb) where the silhouette map is shown
 ### Neutrino oscillation simulation:
 - Neutrino oscillations in vacuum (Fig 3)
