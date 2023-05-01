@@ -3,7 +3,7 @@
 # Neutrino oscillation simulation notebooks
 Notebooks are in Simulating_neutrino_oscillation_superconducting_qutrit_data folder.
 - Assessing high energy level:
-Frequency and Rabi 12.ipynb yields the anharmonicty and pi pulse at subspace 12
+Anharmonicity_and_Rabi_12.ipynb yields the anharmonicty and pi pulse at subspace 12
 Also, the default IBM default qutrit readout is shown. 
 - Measurement pulse optimization:
 The measurement protocol optimization is shown in Readout_measurement_optimization_for_qutrit where the silhouette map is shown
