@@ -2,14 +2,15 @@
 Notebooks and data of the manuscript titled "Simulating neutrino oscillations on a superconducting qutrit"
 - Cite as: https://doi.org/10.48550/arXiv.2212.14170
 
-## Neutrino oscillation simulation notebooks
+## Qutrit tuning and neutrino oscillation simulation notebooks
 Notebooks are in Simulating_neutrino_oscillation_superconducting_qutrit_data folder.
+### Qutrit tuning:
 - Assessing high energy level: (Fig 2a, Fig 2d)
 Anharmonicity_and_Rabi_12.ipynb yields the anharmonicty and pi pulse at subspace 12
 Also, the default IBM default qutrit readout is shown. 
 - Measurement pulse optimization: (Fig 2b)
 The measurement protocol optimization is shown in Readout_measurement_optimization_for_qutrit where the silhouette map is shown
-
+### Neutrino oscillation simulation:
 - Neutrino oscillations in vacuum (Fig 3)
 Simulating_neutrino_oscillations_in_vacuum.ipynb
 - Neutrino oscillation in matter (Fig 4)
