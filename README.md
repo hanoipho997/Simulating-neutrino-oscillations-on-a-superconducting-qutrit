@@ -3,7 +3,7 @@ Notebooks and data of the manuscript titled "Simulating neutrino oscillations on
 - Cite as: https://doi.org/10.48550/arXiv.2212.14170
 - The notebooks were run on the IBM quantum computer codename 'imbq_jakarta'
 ## Qutrit tuning and neutrino oscillation simulation notebooks
-Notebooks are in Simulating_neutrino_oscillation_superconducting_qutrit_data folder.
+Notebooks are in Simulating_neutrino_qutrit_notebooks folder.
 ### Qutrit tuning:
 - Assessing high energy level: (Fig 2a, Fig 2d)
 [Anharmonicity_and_Rabi_12.ipynb]() yields the anharmonicty and pi pulse at subspace 12.
