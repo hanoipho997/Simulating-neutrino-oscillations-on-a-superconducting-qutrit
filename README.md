@@ -17,6 +17,6 @@ The measurement protocol optimization is shown in [Readout_measurement_optimizat
 [Simulating_neutrino_in_matter.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Simulating_neutrino_qutrit_notebooks/Simulating_neutrino_in_matter.ipynb)
 - Neutrino oscillation with CP violation (Fig 5)
 [Simulating_neutrino_oscillations_with_CP_violation.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Simulating_neutrino_qutrit_notebooks/Simulating_neutrino_oscillations_with_CP_violation.ipynb)
-## Data: Simulating_neutrino_oscillation_superconducting_qutrit_data 
+## Data: In folder data 
 - Corresponding date files to section 1 
 - Data for coherent and incoherent errors is (by repetition experiement) is fig2e_repeat_xp12_addmod.txt
