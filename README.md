@@ -1,5 +1,5 @@
 # Simulating neutrino oscillations on a superconducting qutrit
-Notebooks and data of the manuscript titled "Simulating neutrino oscillations on a superconducting qutrit"
+Notebooks and data of the paper titled "Simulating neutrino oscillations on a superconducting qutrit"
 - Cite as
   @article{PhysRevD.108.023013, 
   title = {Simulating neutrino oscillations on a superconducting qutrit},
