@@ -34,3 +34,4 @@ The measurement protocol optimization is shown in [Readout_measurement_optimizat
 ## Data: In folder Data 
 - Corresponding to notebooks in folder Notebooks
 - Data for coherent and incoherent errors is (by repetition experiement) is fig2e_repeat_xp12_addmod.txt
+## Note: See branch old-folder to see the previous version of the notebooks
