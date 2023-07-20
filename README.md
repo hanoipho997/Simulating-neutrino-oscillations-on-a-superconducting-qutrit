@@ -1,6 +1,20 @@
 # Simulating neutrino oscillations on a superconducting qutrit
 Notebooks and data of the manuscript titled "Simulating neutrino oscillations on a superconducting qutrit"
-- Cite as: [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023013](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023013)
+- Cite as @article{PhysRevD.108.023013,
+  title = {Simulating neutrino oscillations on a superconducting qutrit},
+  author = {Nguyen, Ha C. and Bach, Bao G. and Nguyen, Tien D. and Tran, Duc M. and Nguyen, Duy V. and Nguyen, Hung Q.},
+  journal = {Phys. Rev. D},
+  volume = {108},
+  issue = {2},
+  pages = {023013},
+  numpages = {13},
+  year = {2023},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.108.023013},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.108.023013}
+}
+, at [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023013](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.023013)
 - The notebooks were run on the IBM quantum computer codename 'imbq_jakarta'
 ## Qutrit tuning and neutrino oscillation simulation notebooks
 Notebooks are in folder Notebooks.
