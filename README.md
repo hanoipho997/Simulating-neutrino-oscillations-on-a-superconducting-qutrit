@@ -12,11 +12,11 @@ Also, the default IBM default qutrit readout is shown.
 The measurement protocol optimization is shown in [Readout_measurement_optimization_for_qutrit.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Notebooks/Readout_measurement_optimization_for_qutrit.ipynb) where the silhouette map is shown
 ### Neutrino oscillation simulation:
 - Neutrino oscillations in vacuum (Fig 3)
-[Simulating_neutrino_oscillations_in_vacuum.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Notebooks/Simulating_neutrino_oscillations_in_vacuum.ipynb)
+[Simulating_neutrino_oscillations_in_vacuum-ver2.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Notebooks/Simulating_neutrino_oscillations_in_vacuum-ver2.ipynb)
 - Neutrino oscillation in matter (Fig 4)
-[Simulating_neutrino_in_matter.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Notebooks/Simulating_neutrino_in_matter.ipynb)
+[Simulating_neutrino_in_matter_ver2.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Notebooks/Simulating_neutrino_in_matter_ver2.ipynb)
 - Neutrino oscillation with CP violation (Fig 5)
-[Simulating_neutrino_oscillations_with_CP_violation.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Notebooks/Simulating_neutrino_oscillations_with_CP_violation.ipynb)
+[Simulating_neutrino_oscillations_with_CP_violation_ver2.ipynb](https://github.com/hanoipho997/Simulating-neutrino-oscillations-on-a-superconducting-qutrit/blob/main/Notebooks/Simulating_neutrino_oscillations_with_CP_violation_ver2.ipynb)
 ## Data: In folder Data 
 - Corresponding to notebooks in folder Notebooks
 - Data for coherent and incoherent errors is (by repetition experiement) is fig2e_repeat_xp12_addmod.txt
