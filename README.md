@@ -15,7 +15,7 @@ Notebooks and data of the paper titled "Simulating neutrino oscillations on a su
   doi = {10.1103/PhysRevD.108.023013},
   url = {https://link.aps.org/doi/10.1103/PhysRevD.108.023013}
 }
-- The notebooks were run on the IBM quantum computer codename 'imbq_jakarta'
+- The notebooks were run on the IBM quantum computer codename 'ibmq_jakarta'
 ## Qutrit tuning and neutrino oscillation simulation notebooks
 Notebooks are in folder Notebooks.
 ### Qutrit tuning:
